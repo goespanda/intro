@@ -1,13 +1,13 @@
  
 #EXTM3U
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022-avc1_2500000=7-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png",GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="VIDIO" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png",iNews
-https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+https://d-inews.rctiplus.id/inews2023-avc1_2500000=7-mp4a_128000_eng=2.m3u8?auth_key=1675164439-0-0-437c35fca583c14aa812acb550fc2d5b
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://www.denpasarkreatif.com/wp-content/uploads/01BaliTV-845x321.jpg",BaliTV
 http://dituduhmaling.xyz/US33T4/balitv.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/8.jpg",ANTV
