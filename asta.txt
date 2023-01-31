@@ -20,7 +20,7 @@ http://210.210.155.35/session/95c1fe0c-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s104
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/7.jpg",TVOne
 http://210.210.155.35/session/bf823a72-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png",Jakarta Globe News
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/22.jpg",RTV
 http://210.210.155.35/session/c3c2a782-a15f-11ed-a06a-c81f66f89318/dr9445/h/h10/01.m3u8
