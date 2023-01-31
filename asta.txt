@@ -23,11 +23,11 @@ http://210.210.155.35/session/bf823a72-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s105
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/22.jpg",RTV
-http://210.210.155.35/session/d72dc7cc-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/session/c3c2a782-a15f-11ed-a06a-c81f66f89318/dr9445/h/h10/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/94.jpg",Elshinta TV
 http://210.210.155.35/session/e94ee49a-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/105.jpg",Mayapada TV
-http://210.210.155.35/session/04184a82-c4fb-11eb-a183-b82a72d63267/qwr9ew/s/s46/01.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=555800&tkn=4SXL1VFWHT4AXGMKK7VI3R4WBDMJS6BC&chname=BTV
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/17.jpg",TVRI
 http://210.210.155.35/session/1b2dc062-c4fb-11eb-a183-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/106.jpg",TVRI Sport HD
@@ -79,7 +79,7 @@ http://210.210.155.35/session/cb889e3a-c4fd-11eb-a7c0-c81f66f89318/uq2663/h/h19/
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/87.jpg",CinemaWorld
 http://210.210.155.35/session/ff71a486-0192-11ec-ae09-c81f66f89318/dr9445/h/h04/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/99.jpg",Celestial Movies
-http://210.210.155.35/session/f4741e96-c4fd-11eb-a769http://210.210.155.35/session/4b33b8d0-a15d-11ed-a06a-c81f66f89318/dr9445/h/h14/01.m3u8-b82a72d63267/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/session/18ef51c4-a160-11ed-99fb-c81f66f89318/dr9445/h/h14/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",tVN
 http://210.210.155.35/session/173b4d3c-c4fe-11eb-a56a-c81f66f89318/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",tVN Movies
@@ -112,10 +112,6 @@ https://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
 https://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",Fashion TV Original
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Midnight
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://ukrtvr.org/images/sat/hdfashion.png",HD Fashion Channel
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png",CNBC News
