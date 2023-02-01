@@ -62,9 +62,9 @@ http://210.210.155.35/session/33ce1666-0192-11ec-ae09-c81f66f89318/dr9445/h/h07/
 http://210.210.155.35/session/c077ade8-c4fc-11eb-8855-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/101.jpg",HITS
 http://210.210.155.35/session/e1dbd540-c4fc-11eb-82e0-c81f66f89318/dr9445/h/h37/01.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/39.jpg",Blue Ant Entertainment
+#EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",Rock Entertainment
 http://210.210.155.35/session/0b09cb7a-c4fd-11eb-82e0-c81f66f89318/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/44.jpg",Blue Ant Extreme
+#EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",Rock Action
 http://210.210.155.35/session/8ec25de8-0192-11ec-ae09-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/95.jpg",My Cinema
 http://210.210.155.35/session/766156fa-0192-11ec-8291-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
