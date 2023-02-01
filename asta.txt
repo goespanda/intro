@@ -9,9 +9,9 @@ http://210.210.155.35/session/1721af16-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:-1 group-title="DENSTV" tvg-id="SCTV.MACAN" tvg-logo="http://dens.tv/images/channel-logo/9.jpg",SCTV
 http://210.210.155.35/session/2f08bebc-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg",TransTV
-http://210.210.155.35/session/12551f52-0192-11ec-a5a6-c81f66f89318/qwr9ew/s/s05/01.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1680321363_b744100_sleng.m3u8
 #EXTINF:0 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" aspect-ratio="16:9", Trans7
-http://210.210.155.35/session/fa4f72da-0c55-11ec-8ad3-b82a72d63267/uq2663/h/h11/01.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1743684149_b744100_sleng.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/13.jpg",NET.
 http://210.210.155.35/session/7c3e5b92-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/14.jpg",Kompas TV
