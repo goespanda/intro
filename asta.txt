@@ -27,7 +27,7 @@ http://210.210.155.35/session/c3c2a782-a15f-11ed-a06a-c81f66f89318/dr9445/h/h10/
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/94.jpg",Elshinta TV
 http://210.210.155.35/session/e94ee49a-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?app_type=web&userid=555800&tkn=4SXL1VFWHT4AXGMKK7VI3R4WBDMJS6BC&chname=BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/17.jpg",TVRI
 http://210.210.155.35/session/1b2dc062-c4fb-11eb-a183-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/106.jpg",TVRI Sport HD
@@ -55,7 +55,7 @@ http://210.210.155.37/session/c07d5b32-a15d-11ed-991d-c81f66f89318/uq2663/h/h223
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/38.jpg",Aniplus
 http://210.210.155.35/session/6785fb86-c4fc-11eb-82e0-c81f66f89318/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/121.jpg",HorizonSports
-http://210.210.155.35/session/3dee4392-a15e-11ed-991d-c81f66f89318/uq2663/h/h124/index.m3u8?app_type=web&userid=555800&tkn=98AGDEGJ3LX7RJITCC025FJ5AIZTKDYN&chname=HorizonSports
+http://210.210.155.35/session/3dee4392-a15e-11ed-991d-c81f66f89318/uq2663/h/h124/index.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/49.jpg",KIX
 http://210.210.155.35/session/33ce1666-0192-11ec-ae09-c81f66f89318/dr9445/h/h07/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/55.jpg",Thrill
