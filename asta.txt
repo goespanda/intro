@@ -90,7 +90,7 @@ http://210.210.155.35/session/18ef51c4-a160-11ed-99fb-c81f66f89318/dr9445/h/h14/
 http://210.210.155.35/session/173b4d3c-c4fe-11eb-a56a-c81f66f89318/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",tVN Movies
 http://210.210.155.35/session/29304894-c4fe-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/108.jpg",Golf
+#EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",RTV
 http://210.210.155.35/session/e93fcfe2-15d5-11ec-8eb9-b82a72d63267/dr9445/h/h10/01.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="http://dens.tv/images/channel-logo/37.jpg",TV5Monde StyleHD
 http://210.210.155.35/session/6bc0f7f6-a15e-11ed-a06a-c81f66f89318/dr9445/h/h121/01.m3u8
