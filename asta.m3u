@@ -1,9 +1,9 @@
  
 #EXTM3U
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg",Magna Channel
-http://210.210.155.35/session/bb944b2a-a15e-11ed-a06a-c81f66f89318/dr9445/h/h24/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/8.jpg",ANTV
-http://210.210.155.35/session/cc8f4760-c4f9-11eb-a183-b82a72d63267/qwr9ew/s/s07/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/10.jpg",Indosiar
 http://210.210.155.35/session/1721af16-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-id="SCTV.MACAN" tvg-logo="http://dens.tv/images/channel-logo/9.jpg",SCTV
@@ -16,10 +16,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1743684149_b744100_sl
 http://210.210.155.35/session/7c3e5b92-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/14.jpg",Kompas TV
 http://210.210.155.35/session/95c1fe0c-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg",Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://dens.tv/images/channel-logo/80.jpg",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/7.jpg",TVOne
-http://210.210.155.35/session/bf823a72-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s105/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://pbs.twimg.com/profile_images/676712736915480576/aSBabZsd_400x400.jpg",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/22.jpg",RTV
@@ -45,7 +47,7 @@ http://210.210.155.35/session/b6aaadfc-c4fb-11eb-a7c0-c81f66f89318/uq2663/h/h18/
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg",ZeeBioskop
 http://210.210.155.35/session/da11ba92-c4fb-11eb-a183-b82a72d63267/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/107.jpg",Dens Play
-http://210.210.155.35/session/11397032-c4fc-11eb-a7c0-c81f66f89318/x6bnqe/s/s101/live.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s101/live.m3u8?app_type=web&userid=lite&chname=DensPlay
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/26.jpg",Egg Network
 http://210.210.155.35/session/2f5a48a2-c4fc-11eb-a7c0-c81f66f89318/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg",Fight Sports
@@ -127,6 +129,6 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg",Live Streaming 1
-http://210.210.155.35/session/4a73ad9e-0193-11ec-81ff-b82a72d63267/x6bnqe/s/s100/live.m3u8?app_type=web&userid=309199&tkn=15EAB26VDHVP6RP2WX1GN93EU0KQ08AF&chname=Live_Streaming_1
+https://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg",Live Streaming 2
 http://210.210.155.35/session/6881dd6a-0193-11ec-8016-b82a72d63267/uq2663/h/h998/live.m3u8?app_type=web&userid=309199&tkn=15EAB26VDHVP6RP2WX1GN93EU0KQ08AF&chname=Live_Streaming_2
