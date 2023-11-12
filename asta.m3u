@@ -7,7 +7,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/10.jpg",Indosiar
 http://210.210.155.35/session/1721af16-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-id="SCTV.MACAN" tvg-logo="http://dens.tv/images/channel-logo/9.jpg",SCTV
-http://210.210.155.35/session/2f08bebc-c4fa-11eb-a183-b82a72d63267/qwr9ew/s/s03/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1680321363_b744100_sleng.m3u8
 #EXTINF:0 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" aspect-ratio="16:9", Trans7
