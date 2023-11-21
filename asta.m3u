@@ -1,8 +1,8 @@
  
 #EXTM3U
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg",Magna Channel
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg",Magna Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/8.jpg",ANTV
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501594_tvchannels_v1.jpg",ANTV
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/10.jpg",Indosiar
 https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -36,12 +36,14 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/106.jpg",TVRI Sport HD
 https://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/42.jpg",Dens LifeStyle
-http://210.210.155.37/session/92ffff56-a15e-11ed-a06a-c81f66f89318/x6bnqe/s/s65/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/102.jpg",Dens Show Biz
-http://210.210.155.35/session/71a51c2e-c4fb-11eb-a7c0-c81f66f89318/x6bnqe/s/s35/S4/mnf.m3u8
-#EXTINF:-1 group-title="DENSTV" tvg-logo="http://dens.tv/images/channel-logo/1.jpg",Dens Learning & Knowledge
-http://210.210.155.35/session/8e85bc86-c4fb-11eb-a7c0-c81f66f89318/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg",Dens LifeStyle
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",Dens Show Biz
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg",DFC Food Channel
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+#EXTINF:-1 group-title="DENSTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg",Dens Learning & Knowledge
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",Motorvision
 http://210.210.155.35/session/a1205248-c4fb-11eb-a7c0-c81f66f89318/uq2663/h/h09/01.m3u8
 #EXTINF:-1 group-title="DENSTV" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",MyCinema Europe
